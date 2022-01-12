@@ -1,4 +1,4 @@
-# Sample Marketing Website Template
+# Marketing Website Template Using ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
